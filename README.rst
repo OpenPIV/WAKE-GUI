@@ -1,6 +1,6 @@
 WAKE-GUI Toolbox
 +++++++++++++++++++++++++++++++++++++++++++++++++
-.. image:: snapshot.jpg
+.. image:: snapshot.JPG
 
 What is it?
 ------------
