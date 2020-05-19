@@ -29,5 +29,4 @@ What is it?
 Developers
 ++++++++++
 
-Dr. Hadar Ben-Gida
-Prof. Roi Gurka
+Dr. Hadar Ben-Gida, Prof. Roi Gurka
