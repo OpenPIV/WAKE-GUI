@@ -25,8 +25,6 @@ What is it?
 
       >> WAKE 
 
-+ view the web pages at http://openpiv.github.com/openpiv-spatial-analysis-toolbox
-
 
 Developers
 ++++++++++
