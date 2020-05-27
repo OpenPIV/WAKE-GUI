@@ -29,6 +29,9 @@ Support
   `<https://github.com/OpenPIV/WAKE-GUI>`_
   `<https://github.com/bengida1989/WAKE-GUI>`_
   
++ User's Manuel is available at
+  https://github.com/OpenPIV/WAKE-GUI/blob/master/%E2%80%8F%E2%80%8FWAKE-GUI-UsersManuel.pdf
+  
 + to modify these pages:
 
   - git clone https://github.com/OpenPIV/WAKE-GUI.git
