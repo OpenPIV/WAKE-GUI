@@ -23,7 +23,7 @@ https://figshare.com/articles/OpenPIV_-_WAKE-GUI_Matlab_ToolBox/12331007
 
 User's Manual
 ------------
-https://github.com/OpenPIV/WAKE-GUI/blob/master/%E2%80%8F%E2%80%8FWAKE-GUI-UsersManuel.pdf
+https://github.com/OpenPIV/WAKE-GUI/blob/master/%E2%80%8F%E2%80%8FWAKE-GUI-UsersManual.pdf
   
 
 Support
